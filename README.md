@@ -21,6 +21,8 @@ When a pixel has two or more growing seasons, only the longest season data are r
 
 ## EUROPE
 
+<img src="img/crop_masks/map_Number of growing seasons_europe.png" height="800" width="1000" >
+
 <img src="img/crop_masks/map_Start of the growing Season_europe.png" height="800" width="1000" >
 
 <img src="img/crop_masks/map_End of the growing Season_europe.png" height="800" width="1000" >
