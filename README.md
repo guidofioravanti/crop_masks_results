@@ -50,3 +50,11 @@ When a pixel has two or more growing seasons, only the longest season data are r
 <img src="img/crop_masks/map_End of the growing Season_south america.png" height="800" width="1000" >
 
 <img src="img/crop_masks/map_Length of the growing Season_south america.png" height="800" width="1000" >
+
+## ASIA
+
+<img src="img/crop_masks/map_Start of the growing Season_asia.png" height="800" width="1000" >
+
+<img src="img/crop_masks/map_End of the growing Season_asia.png" height="800" width="1000" >
+
+<img src="img/crop_masks/map_Length of the growing Season_asia.png" height="800" width="1000" >
